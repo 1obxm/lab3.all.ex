@@ -4,7 +4,8 @@
         /group:144
 
         */
-
+ex1
+-----------------------------------------------------
 import java.util.Scanner;
 
 public class lab3.all.ex {
