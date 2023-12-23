@@ -3,12 +3,15 @@
         /ID:44510688
         /group:144
 
+
         */
+
+
+
+        
 ex1
 -----------------------------------------------------
-import java.util.Scanner;
 
-public class lab3.all.ex {
     public static void main(String[] args) {
         System.out.print("Enter a number between 0 and 1000: ");
         Scanner input = new Scanner(System.in);
